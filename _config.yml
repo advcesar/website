@@ -1,13 +1,13 @@
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-commonmark
-markdown: CommonMarkGhPages
+markdown: GFM
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-commonmark
   - jekyll-relative-links
 
-markdown: CommonMarkGhPages
+markdown: GFM
 relative_links:
   enabled: true
   collections: true
