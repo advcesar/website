@@ -2,3 +2,12 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-commonmark
 markdown: CommonMarkGhPages
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-commonmark
+  - jekyll-relative-links
+
+markdown: CommonMarkGhPages
+relative_links:
+  enabled: true
+  collections: true
