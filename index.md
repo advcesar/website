@@ -6,4 +6,6 @@ Este é um site simples criado com GitHub Pages e Markdown.
 - **100% gratuito**
 - **Hospedado no GitHub**
 
+[Mapa - Livros sobre dinheiro e gestão](maplivrosegestao.md)
+
 Espero que goste!
