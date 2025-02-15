@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Meu Mapa Mental
+title: Mapa Mental
 ---
 # Mapa Mental: Livros Sobre Dinheiro 💰 e Técnicas de Produtividade e Gestão 🛠️  
 **(Mark Tilbury)**  
